@@ -90,7 +90,7 @@
 /*-------------services--------*/
 #services
 {
-	background-image: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8)),url(images/46.jpg);
+	background-image: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8)),url(46.jpg);
 	background-size: cover;
 	background-position: center;
 	color: #efefef !important;
@@ -226,7 +226,7 @@ h1::after
 /*-----------------promo---------*/
 #promo
 {
-	background-image: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8)),url(images/466.jpg);
+	background-image: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8)),url(466.jpg);
 	background-size: cover;
 	background-position: center;
 	color: #fff;
